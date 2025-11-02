@@ -18,3 +18,12 @@ PartyFinder helps you find the best parties, bars, and clubs near you. Whether y
 ## Why PartyFinder?
 
 Never waste a night at a dead party or overpriced club again. See real ratings from real people and make informed decisions about where to spend your night out.
+
+##Demo
+<div>
+    <a href="https://www.loom.com/share/2e6dc5c18ce249f39081fd3ae743dfc3">
+    </a>
+    <a href="https://www.loom.com/share/2e6dc5c18ce249f39081fd3ae743dfc3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2e6dc5c18ce249f39081fd3ae743dfc3-4ae0dc50cffcb7bd-full-play.gif">
+    </a>
+  </div>
