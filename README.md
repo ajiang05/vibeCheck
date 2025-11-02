@@ -19,7 +19,7 @@ PartyFinder helps you find the best parties, bars, and clubs near you. Whether y
 
 Never waste a night at a dead party or overpriced club again. See real ratings from real people and make informed decisions about where to spend your night out.
 
-##Demo
+## Demo
 <div>
     <a href="https://www.loom.com/share/2e6dc5c18ce249f39081fd3ae743dfc3">
     </a>
